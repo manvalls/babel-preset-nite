@@ -1,0 +1,17 @@
+{
+  "name": "babel-preset-nite",
+  "version": "1.0.0",
+  "description": "Babel preset for all Nite plugins",
+  "main": "main.js",
+  "dependencies": {
+    "babel-plugin-transform-nite-jsx": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manvalls/babel-preset-nite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manvalls/babel-preset-nite/issues"
+  },
+  "license": "MIT"
+}
